@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+*.tgz
+
+# Vite
+.vite/
+vite.config.ts
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+jspm_packages/
+
+# Testing
+coverage/
+*.lcov
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Capacitor
+ios/
+android/
+
+# Build artifacts
+*.apk
+*.ipa
+
+# React Native
+*.gradle
+*.lock
+*.keystore
+
+# Yarn
+yarn-error.log
+yarn-debug.log
+
+# npm
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo

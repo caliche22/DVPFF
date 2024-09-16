@@ -1,0 +1,7 @@
+{
+  "name": "FrontendIR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
